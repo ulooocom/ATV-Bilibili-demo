@@ -171,7 +171,7 @@
 		F99D28E02619591300F8E66A /* CommonPlayerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommonPlayerViewController.swift; sourceTree = "<group>"; };
 		F99D28E926195EC200F8E66A /* UIView+Layout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+Layout.swift"; sourceTree = "<group>"; };
 		F99D28F62619F5F000F8E66A /* FollowsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FollowsViewController.swift; sourceTree = "<group>"; };
-		F9B57350260F5F7400771ED5 /* BilibiliLive.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BilibiliLive.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F9B57350260F5F7400771ED5 /* FuscBilibiliLive.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FuscBilibiliLive.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F9B57353260F5F7400771ED5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F9B57355260F5F7400771ED5 /* LivePlayerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LivePlayerViewController.swift; sourceTree = "<group>"; };
 		F9B57358260F5F7400771ED5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -403,7 +403,7 @@
 		F9B57351260F5F7400771ED5 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F9B57350260F5F7400771ED5 /* BilibiliLive.app */,
+				F9B57350260F5F7400771ED5 /* FuscBilibiliLive.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -429,9 +429,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F9B5734F260F5F7400771ED5 /* BilibiliLive */ = {
+		F9B5734F260F5F7400771ED5 /* FuscBilibiliLive */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F9B57362260F5F7600771ED5 /* Build configuration list for PBXNativeTarget "BilibiliLive" */;
+			buildConfigurationList = F9B57362260F5F7600771ED5 /* Build configuration list for PBXNativeTarget "FuscBilibiliLive" */;
 			buildPhases = (
 				4947421429050FAF005D6885 /* Swift formate */,
 				F9B5734C260F5F7400771ED5 /* Sources */,
@@ -443,7 +443,7 @@
 			);
 			dependencies = (
 			);
-			name = BilibiliLive;
+			name = FuscBilibiliLive;
 			packageProductDependencies = (
 				F9B5736D260F652C00771ED5 /* Alamofire */,
 				F9B57372260F6B8E00771ED5 /* Starscream */,
@@ -462,7 +462,7 @@
 				0A41EE182A630FEA0066444C /* SwiftProtobuf */,
 			);
 			productName = BilibiliLive;
-			productReference = F9B57350260F5F7400771ED5 /* BilibiliLive.app */;
+			productReference = F9B57350260F5F7400771ED5 /* FuscBilibiliLive.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -480,7 +480,7 @@
 					};
 				};
 			};
-			buildConfigurationList = F9B5734B260F5F7400771ED5 /* Build configuration list for PBXProject "BilibiliLive" */;
+			buildConfigurationList = F9B5734B260F5F7400771ED5 /* Build configuration list for PBXProject "FuscBilibiliLive" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -510,7 +510,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F9B5734F260F5F7400771ED5 /* BilibiliLive */,
+				F9B5734F260F5F7400771ED5 /* FuscBilibiliLive */,
 			);
 		};
 /* End PBXProject section */
@@ -827,7 +827,7 @@
 					"$(PROJECT_DIR)/BilibiliLive/Vendor",
 				);
 				MARKETING_VERSION = 1;
-				PRODUCT_BUNDLE_IDENTIFIER = com.etan.tv.fuscBilibiliLive;
+				PRODUCT_BUNDLE_IDENTIFIER = com.suqibuy.fuscBilibiliLive;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "BilibiliLive/Supporting Files/BilibiliLive-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
@@ -839,7 +839,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F9B5734B260F5F7400771ED5 /* Build configuration list for PBXProject "BilibiliLive" */ = {
+		F9B5734B260F5F7400771ED5 /* Build configuration list for PBXProject "FuscBilibiliLive" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F9B57360260F5F7600771ED5 /* Debug */,
@@ -848,7 +848,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F9B57362260F5F7600771ED5 /* Build configuration list for PBXNativeTarget "BilibiliLive" */ = {
+		F9B57362260F5F7600771ED5 /* Build configuration list for PBXNativeTarget "FuscBilibiliLive" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F9B57363260F5F7600771ED5 /* Debug */,
