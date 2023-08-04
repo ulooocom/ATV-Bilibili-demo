@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "F9B5734F260F5F7400771ED5"
-               BuildableName = "BilibiliLive.app"
-               BlueprintName = "BilibiliLive"
-               ReferencedContainer = "container:BilibiliLive.xcodeproj">
+               BuildableName = "FuscBilibiliLive.app"
+               BlueprintName = "FuscBilibiliLive"
+               ReferencedContainer = "container:FuscBilibiliLive.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -45,9 +45,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F9B5734F260F5F7400771ED5"
-            BuildableName = "BilibiliLive.app"
-            BlueprintName = "BilibiliLive"
-            ReferencedContainer = "container:BilibiliLive.xcodeproj">
+            BuildableName = "FuscBilibiliLive.app"
+            BlueprintName = "FuscBilibiliLive"
+            ReferencedContainer = "container:FuscBilibiliLive.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -62,9 +62,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F9B5734F260F5F7400771ED5"
-            BuildableName = "BilibiliLive.app"
-            BlueprintName = "BilibiliLive"
-            ReferencedContainer = "container:BilibiliLive.xcodeproj">
+            BuildableName = "FuscBilibiliLive.app"
+            BlueprintName = "FuscBilibiliLive"
+            ReferencedContainer = "container:FuscBilibiliLive.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

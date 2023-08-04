@@ -230,7 +230,7 @@
 				F9B5735A260F5F7600771ED5 /* Assets.xcassets */,
 				F9B5735C260F5F7600771ED5 /* LaunchScreen.storyboard */,
 				F9B5735F260F5F7600771ED5 /* Info.plist */,
-				F99D28DA2618A55900F8E66A /* BilibiliLive-Bridging-Header.h */,
+				F99D28DA2618A55900F8E66A /* FuscBilibiliLive-Bridging-Header.h */,
 			);
 			path = "Supporting Files";
 			sourceTree = "<group>";
@@ -461,7 +461,7 @@
 				49508E102943420100D26812 /* CocoaLumberjackSwift */,
 				0A41EE182A630FEA0066444C /* SwiftProtobuf */,
 			);
-			productName = BilibiliLive;
+			productName = FuscBilibiliLive;
 			productReference = F9B57350260F5F7400771ED5 /* FuscBilibiliLive.app */;
 			productType = "com.apple.product-type.application";
 		};
@@ -778,23 +778,24 @@
 				DEVELOPMENT_TEAM = 65UNMN48VW;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/BilibiliLive/Vendor",
-					"$(PROJECT_DIR)/BilibiliLive/Vendor/DanmakuKit",
+					"$(PROJECT_DIR)/FuscBilibiliLive/Vendor",
+					"$(PROJECT_DIR)/FuscBilibiliLive/Vendor/DanmakuKit",
 				);
-				INFOPLIST_FILE = "BilibiliLive/Supporting Files/Info.plist";
+				INFOPLIST_FILE = "FuscBilibiliLive/Supporting Files/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = fuscBilibiliLive;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.lifestyle";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/BilibiliLive/Vendor",
+					"$(PROJECT_DIR)/FuscBilibiliLive/Vendor",
 				);
 				MARKETING_VERSION = 1;
 				PRODUCT_BUNDLE_IDENTIFIER = com.etan.tv.fuscBilibiliLive;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "BilibiliLive/Supporting Files/BilibiliLive-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "FuscBilibiliLive/Supporting Files/FuscBilibiliLive-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -813,23 +814,24 @@
 				DEVELOPMENT_TEAM = 65UNMN48VW;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/BilibiliLive/Vendor",
-					"$(PROJECT_DIR)/BilibiliLive/Vendor/DanmakuKit",
+					"$(PROJECT_DIR)/FuscBilibiliLive/Vendor",
+					"$(PROJECT_DIR)/FuscBilibiliLive/Vendor/DanmakuKit",
 				);
-				INFOPLIST_FILE = "BilibiliLive/Supporting Files/Info.plist";
+				INFOPLIST_FILE = "FuscBilibiliLive/Supporting Files/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = fuscBilibiliLive;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.lifestyle";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/BilibiliLive/Vendor",
+					"$(PROJECT_DIR)/FuscBilibiliLive/Vendor",
 				);
 				MARKETING_VERSION = 1;
 				PRODUCT_BUNDLE_IDENTIFIER = com.suqibuy.fuscBilibiliLive;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "BilibiliLive/Supporting Files/BilibiliLive-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "FuscBilibiliLive/Supporting Files/FuscBilibiliLive-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 3;
 				TVOS_DEPLOYMENT_TARGET = 15.0;
