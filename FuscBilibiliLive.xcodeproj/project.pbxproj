@@ -395,7 +395,7 @@
 		F9B57347260F5F7400771ED5 = {
 			isa = PBXGroup;
 			children = (
-				F9B57352260F5F7400771ED5 /* BilibiliLive */,
+				F9B57352260F5F7400771ED5 /* FuscBilibiliLive */,
 				F9B57351260F5F7400771ED5 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -408,7 +408,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		F9B57352260F5F7400771ED5 /* BilibiliLive */ = {
+		F9B57352260F5F7400771ED5 /* FuscBilibiliLive */ = {
 			isa = PBXGroup;
 			children = (
 				49389D6028AFE91E00B9DAFD /* Extensions */,
@@ -423,7 +423,7 @@
 				2D3CD3F72635BD7000191419 /* Supporting Files */,
 				496400D22943431E0098ACA6 /* Logger.swift */,
 			);
-			path = BilibiliLive;
+			path = FuscBilibiliLive;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
